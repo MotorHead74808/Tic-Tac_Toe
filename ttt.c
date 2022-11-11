@@ -1,3 +1,9 @@
+/*
+Title: ttt.c
+Author: MotorHead74808
+Date: November 10, 2022
+*/
+
 #include <stdio.h>
 #include <string.h>
 
